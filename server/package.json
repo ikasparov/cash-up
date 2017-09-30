@@ -1,0 +1,8 @@
+{
+  "name": "cash-up",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ikasparov/cash-up",
+  "author": "Igor Kasparov <ikasparov.dev@gmail.com>",
+  "license": "MIT"
+}
